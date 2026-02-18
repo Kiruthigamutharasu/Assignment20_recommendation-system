@@ -34,3 +34,10 @@ Then push:
 git add README.md
 git commit -m "Added README"
 git push
+
+## 🔗 Deployment Link (Render)
+https://assignment20-recommendation-system.onrender.com
+
+## 📊 Dataset Used (Kaggle)
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
